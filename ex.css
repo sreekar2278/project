@@ -1,0 +1,11 @@
+.hero {
+  background: linear-gradient(135deg, #4338ca, #0ea5e9);
+  color: white;
+  padding: 60px 20px;
+  border-bottom-left-radius: 1.5rem;
+  border-bottom-right-radius: 1.5rem;
+}
+
+.card .btn {
+  border-radius: 999px;
+}
